@@ -1,7 +1,3 @@
-# This is a sample Python script.
-
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.linear_model import LogisticRegression
@@ -49,5 +45,3 @@ def ngram_getter():
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     ngram_getter()
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
